@@ -1,6 +1,6 @@
 # SheridanCourseApp_V1
 
-Figma Link:https://www.figma.com/file/5deHV4wRh4HY1SDIsRVNJV/Assignment2?node-id=16%3A854
+Figma Link:https://www.figma.com/file/SjJLq08B8Ahw0TLo5GKrjV/Sheridan-Courses-App-V1?node-id=0%3A1
 Youtube Link:https://youtu.be/jftnE9xjkBg
 
 #This app will allow students to manage their school life.
